@@ -25,12 +25,12 @@ export default function Home() {
             <p>Click here to navigate to an example page</p>
           </a>
         <div className='grid'>
-          <a href='aaliyahcuthbert.js ' className='card'>
+          <a href='/aaliyahcuthbert.js ' className='card'>
             <h3>Example About Me Page aaliyah &rarr;</h3>
             <p>Click here to navigate to an example page</p>
           </a>
         <div className='grid'>
-          <a href='trinitythan.js ' className='card'>
+          <a href='/trinitythan.js ' className='card'>
             <h3>Example About Me Page trinity &rarr;</h3>
             <p>Click here to navigate to an example page</p>
           </a>

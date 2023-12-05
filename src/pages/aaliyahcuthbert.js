@@ -11,7 +11,7 @@ export default function examplePage() {
           <img
             className='pic'
             src='https://media.licdn.com/dms/image/D4E03AQHKQxNK_xWWWw/profile-displayphoto-shrink_800_800/0/1693693563889?e=1707350400&v=beta&t=dn2Gs4gEbXyBxiYtWbM76xZG0zhZeMzIK8dYS1FAT7Q'
-            alt='aaliyahh'
+            alt='aaliyahcuthbert'
           />
 
           <p className='description'>

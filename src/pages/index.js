@@ -17,7 +17,7 @@ export default function Home() {
         <p className='description2'>
           Our websites are shown below
         </p>
-        <code>src/page/teamMemberName.js</code>
+        <code>src/page/aaliyahcuthbert.js</code>
 
         <div className='grid'>
           <a href='/TomHolland ' className='card'>
